@@ -7,3 +7,4 @@ Uses:
   - Viewpager to display several lists side by side
   - Adapter to display items
   - Mediaplayer to play sound of each word
+  - Fragments to display each list
